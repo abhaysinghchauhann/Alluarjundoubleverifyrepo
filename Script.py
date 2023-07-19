@@ -13,7 +13,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/THESavageBOe1>ARYAN</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CornersOfficial>Cᴏʀɴᴇʀꜱ Oғғɪᴄɪᴀʟ ⚡</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/AAPRODUCTIONUPDATE>AA PRODUCTION ⚡</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
 
@@ -112,7 +112,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/CornersOfficial>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ Cᴏʀɴᴇʀꜱ Oғғɪᴄɪᴀʟ</a></b>"""
+<b><a href=https://t.me/AAPRODUCTIONUPDATE>~ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ AA PRODUCTION</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
